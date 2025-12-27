@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2025-12-27</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-27/image.jpg"><img src="docs/wallpapers/bing/2025-12-27/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-27/story.md"><small>仍存野性 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-27/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-27/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-27/story.md"><small>a pond with a waterfall in the middle of it 📖</small></a></td>
 </tr>
 <tr>
