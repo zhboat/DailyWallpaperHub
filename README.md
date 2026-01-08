@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-01-08</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-01-08/image.jpg"><img src="docs/wallpapers/bing/2026-01-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-01-08/story.md"><small>时光在此处茁壮成长 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-01-08/image.jpg"><img src="docs/wallpapers/unsplash/2026-01-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-01-08/story.md"><small>brown concrete building near green trees under cloudy sky during daytime 📖</small></a></td>
 </tr>
 <tr>
