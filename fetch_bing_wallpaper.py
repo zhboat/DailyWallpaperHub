@@ -53,10 +53,17 @@ def fetch_bing_metadata():
         "n": 1,
         "mkt": "zh-CN"
     }
-    resp = requests.get(BING_API, params=params, timeout=10)
-    resp.raise_for_status()
-    data = resp.json()
-    return data["images"][0]
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    try:
+        resp = requests.get(BING_API, params=params, headers=headers, timeout=10)
+        resp.raise_for_status()
+        data = resp.json()
+        return data["images"][0]
+    except Exception as e:
+        print(f"[ERROR] 获取必应元数据失败: {e}")
+        return None
 
 
 def download_image(url: str, save_path: Path):
@@ -171,6 +178,8 @@ def main():
     # 1. 获取元数据（尝试今天，如果不存在则使用昨天）
     print(f"[INFO] 正在获取必应壁纸...")
     
+    meta = None
+    today = None
     for idx in [0, 1]:  # 0=今天, 1=昨天
         params = {
             "format": "js",
@@ -178,26 +187,42 @@ def main():
             "n": 1,
             "mkt": "zh-CN"
         }
-        resp = requests.get(BING_API, params=params, timeout=10)
-        resp.raise_for_status()
-        data = resp.json()
-        meta = data["images"][0]
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+        try:
+            resp = requests.get(BING_API, params=params, headers=headers, timeout=10)
+            resp.raise_for_status()
+            data = resp.json()
+            if not data.get("images"):
+                continue
+            curr_meta = data["images"][0]
+        except Exception as e:
+            print(f"[WARN] Bing API 请求失败 (idx={idx}): {e}")
+            continue
         
         # 使用 API 返回的日期作为文件夹名
-        today = get_date_from_meta(meta)
-        base_dir = Path("docs/wallpapers/bing") / today
+        curr_today = get_date_from_meta(curr_meta)
+        curr_base_dir = Path("docs/wallpapers/bing") / curr_today
         
-        # 如果该日期的壁纸已存在，跳过
-        if base_dir.exists() and (base_dir / "image.jpg").exists():
+        # 如果该日期的壁纸已存在，且是 idx=0 (今天)，则跳过
+        if curr_base_dir.exists() and (curr_base_dir / "image.jpg").exists():
             if idx == 0:
-                print(f"[INFO] {today} 的壁纸已存在，不再重复下载。")
+                print(f"[INFO] {curr_today} 的壁纸已存在，不再重复下载。")
                 return
             else:
-                continue  # 尝试下一个
+                continue
         
-        # 找到可用的壁纸，跳出循环
+        # 找到可用的壁纸，赋值并跳出循环
+        meta = curr_meta
+        today = curr_today
+        base_dir = curr_base_dir
         print(f"[INFO] 使用 {today} 的壁纸（idx={idx}）")
         break
+    
+    if not meta:
+        print("[ERROR] 无法获取任何有效的必应壁纸元数据，程序退出。")
+        return
     
     base_dir.mkdir(parents=True, exist_ok=True)
 
