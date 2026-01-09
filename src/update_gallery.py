@@ -38,14 +38,10 @@ def update_gallery():
         if not source_dir.exists():
             continue
             
-        dates = sorted(
-            [p.name for p in source_dir.iterdir() if p.is_dir()],
-            reverse=True
-        )[:max_items]
-        
-        for date in dates:
-            date_dir = source_dir / date
-            meta_path = date_dir / "meta.json"
+        # 递归寻找所有包含 meta.json 的目录
+        for meta_file in source_dir.rglob("meta.json"):
+            date_dir = meta_file.parent
+            date = date_dir.name
             
             # 统一使用 image.jpg
             image_file = "image.jpg"
@@ -53,16 +49,19 @@ def update_gallery():
             image_path = date_dir / image_file
             story_path = date_dir / "story.md"
             
-            if meta_path.exists() and thumb_path.exists() and image_path.exists():
+            if thumb_path.exists() and image_path.exists():
                 try:
-                    meta = json.loads(meta_path.read_text(encoding="utf-8"))
+                    meta = json.loads(meta_file.read_text(encoding="utf-8"))
                     title = meta.get("title", date)
                     
-                    # GitHub Pages 路径：从 docs/ 目录访问同级的 wallpapers/
-                    # 使用 ./ 而不是 ../ 因为 GitHub Pages 会将 docs/ 作为根目录
-                    img_url = f"./wallpapers/{source_name}/{date}/{image_file}"
-                    thumb_url = f"./wallpapers/{source_name}/{date}/thumb.jpg"
-                    story_url = f"./wallpapers/{source_name}/{date}/story.md" if story_path.exists() else None
+                    # 生成相对于 docs/ 的相对路径
+                    # 例如 date_dir 是 docs/wallpapers/bing/2026-01/2026-01-09
+                    # 我们需要 ./wallpapers/bing/2026-01/2026-01-09/image.jpg
+                    rel_to_docs = date_dir.relative_to(Path("docs"))
+                    
+                    img_url = f"./{rel_to_docs}/{image_file}"
+                    thumb_url = f"./{rel_to_docs}/thumb.jpg"
+                    story_url = f"./{rel_to_docs}/story.md" if story_path.exists() else None
                     
                     all_wallpapers.append({
                         "date": date,

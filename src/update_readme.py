@@ -36,27 +36,28 @@ def update_readme():
         if not source_dir.exists():
             continue
             
-        # 获取该源的所有日期目录
-        dates = sorted(
-            [p.name for p in source_dir.iterdir() if p.is_dir()],
-            reverse=True
-        )
-        
-        for date in dates:
-            date_dir = source_dir / date
-            meta_path = date_dir / "meta.json"
+        # 递归寻找所有包含 meta.json 的目录
+        # 以前在 doc/wallpapers/bing/2026-01-09/
+        # 现在在 doc/wallpapers/bing/2026-01/2026-01-09/
+        for meta_file in source_dir.rglob("meta.json"):
+            date_dir = meta_file.parent
+            date = date_dir.name # 文件夹名即日期
+            
             thumb_path = date_dir / "thumb.jpg"
             image_path = date_dir / "image.jpg"
             story_path = date_dir / "story.md"
             
-            if meta_path.exists() and thumb_path.exists():
+            if thumb_path.exists():
                 try:
-                    meta = json.loads(meta_path.read_text(encoding="utf-8"))
+                    meta = json.loads(meta_file.read_text(encoding="utf-8"))
+                    # 计算相对于项目根目录的相对路径
+                    rel_dir = date_dir.relative_to(Path().absolute()) if date_dir.is_absolute() else date_dir
+                    
                     date_wallpapers[date][source_name] = {
                         "meta": meta,
-                        "thumb": f"docs/wallpapers/{source_name}/{date}/thumb.jpg",
-                        "image": f"docs/wallpapers/{source_name}/{date}/image.jpg",
-                        "story": f"docs/wallpapers/{source_name}/{date}/story.md" if story_path.exists() else None,
+                        "thumb": str(date_dir / "thumb.jpg"),
+                        "image": str(date_dir / "image.jpg"),
+                        "story": str(date_dir / "story.md") if story_path.exists() else None,
                         "display_name": source.get("display_name", source_name)
                     }
                 except:

@@ -73,9 +73,10 @@ def main():
     if not photo:
         return
     
-    # 使用今天的日期
+    # 使用今天的日期并增加月份层级
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    base_dir = Path("docs/wallpapers/unsplash") / today
+    month_str = today[:7]  # YYYY-MM
+    base_dir = Path("docs/wallpapers/unsplash") / month_str / today
     
     if base_dir.exists() and (base_dir / "image.jpg").exists():
         print(f"[INFO] {today} 的 Unsplash 壁纸已存在")
@@ -141,14 +142,10 @@ def main():
         except Exception as e:
             print(f"[WARN] Unsplash 企业微信推送失败: {e}")
     
-    # 9. 分发到腾讯云 COS (可选)
+    # 9. 分发到腾讯云 COS (仅上传高清原图)
     from src.utils import upload_to_cos
-    cos_base_path = f"wallpapers/unsplash/{today}"
-    upload_to_cos(str(image_path), f"{cos_base_path}/image.jpg")
-    upload_to_cos(str(thumb_path), f"{cos_base_path}/thumb.jpg")
-    if story_content:
-        upload_to_cos(str(base_dir / "story.md"), f"{cos_base_path}/story.md")
-    upload_to_cos(str(meta_path), f"{cos_base_path}/meta.json")
+    cos_path = f"wallpapers/unsplash/{today[:7]}/{today}/image.jpg"
+    upload_to_cos(str(image_path), cos_path)
     
     print(f"\n✅ 完成！Unsplash 壁纸已归档至 {base_dir}")
 

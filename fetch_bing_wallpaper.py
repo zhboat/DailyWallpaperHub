@@ -201,14 +201,15 @@ def main():
             print(f"[WARN] Bing API 请求失败 (idx={idx}): {e}")
             continue
         
-        # 使用 API 返回的日期作为文件夹名
-        curr_today = get_date_from_meta(curr_meta)
-        curr_base_dir = Path("docs/wallpapers/bing") / curr_today
+        # 使用 API 返回的日期作为文件夹名（增加月份层级）
+        curr_date_str = get_date_from_meta(curr_meta)
+        month_str = curr_date_str[:7]  # YYYY-MM
+        curr_base_dir = Path("docs/wallpapers/bing") / month_str / curr_date_str
         
         # 如果该日期的壁纸已存在，且是 idx=0 (今天)，则跳过
         if curr_base_dir.exists() and (curr_base_dir / "image.jpg").exists():
             if idx == 0:
-                print(f"[INFO] {curr_today} 的壁纸已存在，不再重复下载。")
+                print(f"[INFO] {curr_date_str} 的壁纸已存在，不再重复下载。")
                 return
             else:
                 continue
@@ -277,16 +278,10 @@ def main():
     else:
         print("[INFO] WEWORK_WEBHOOK 未配置，跳过推送")
 
-    # 9. 分发到腾讯云 COS (可选)
+    # 9. 分发到腾讯云 COS (仅上传高清原图)
     from src.utils import upload_to_cos
-    cos_base_path = f"wallpapers/bing/{today}"
-    upload_to_cos(str(image_path), f"{cos_base_path}/image.jpg")
-    upload_to_cos(str(thumb_path), f"{cos_base_path}/thumb.jpg")
-    if story_content:
-        # 创建临时文件上传 story
-        story_path = base_dir / "story.md"
-        upload_to_cos(str(story_path), f"{cos_base_path}/story.md")
-    upload_to_cos(str(meta_path), f"{cos_base_path}/meta.json")
+    cos_path = f"wallpapers/bing/{today[:7]}/{today}/image.jpg"
+    upload_to_cos(str(image_path), cos_path)
 
     print(f"\n✅ 完成！壁纸已归档至 {base_dir}")
 
