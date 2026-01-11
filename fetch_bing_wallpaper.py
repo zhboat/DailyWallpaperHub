@@ -278,10 +278,10 @@ def main():
     else:
         print("[INFO] WEWORK_WEBHOOK 未配置，跳过推送")
 
-    # 9. 分发到腾讯云 COS (仅上传高清原图)
-    from src.utils import upload_to_cos
-    cos_path = f"wallpapers/bing/{today[:7]}/{today}/image.jpg"
-    upload_to_cos(str(image_path), cos_path)
+    # 9. 同步到另一个 GitHub 仓库 (blog-images)
+    from src.utils import upload_to_github
+    sync_path = f"wallpapers/bing/{today[:7]}/{today}/image.jpg"
+    upload_to_github(str(image_path), sync_path)
 
     print(f"\n✅ 完成！壁纸已归档至 {base_dir}")
 

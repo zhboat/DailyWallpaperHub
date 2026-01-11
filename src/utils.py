@@ -3,12 +3,11 @@
 企业微信群机器人推送工具
 """
 
-import base64
 import hashlib
 import os
 import requests
-from qcloud_cos import CosConfig
-from qcloud_cos import CosS3Client
+import json
+import base64
 import sys
 
 
@@ -107,35 +106,53 @@ def send_story_to_wecom(webhook_url: str, meta: dict, story_content: str):
         print(f"[ERROR] 企业微信故事推送失败: {e}")
 
 
-def upload_to_cos(local_path: str, cos_path: str):
+def upload_to_github(local_path: str, github_path: str):
     """
-    上传文件到腾讯云 COS
+    上传文件到指定的 GitHub 仓库（替代 COS）
     """
-    secret_id = os.environ.get('COS_SECRET_ID')
-    secret_key = os.environ.get('COS_SECRET_KEY')
-    region = os.environ.get('COS_REGION')
-    bucket = os.environ.get('COS_BUCKET')
+    token = os.environ.get('GH_PAT') or os.environ.get('GITHUB_TOKEN')
+    repo = os.environ.get('IMAGE_REPO', 'Hana19951208/blog-images')
+    branch = os.environ.get('IMAGE_REPO_BRANCH', 'main')
 
-    if not all([secret_id, secret_key, region, bucket]):
-        print("[INFO] COS 配置不全，跳过 COS 上传")
+    if not token:
+        print("[INFO] GH_PAT/GITHUB_TOKEN 未配置，跳过 GitHub 上传")
         return None
 
     try:
-        config = CosConfig(Region=region, SecretId=secret_id, SecretKey=secret_key)
-        client = CosS3Client(config)
+        # 读取文件内容并进行 base64 编码
+        with open(local_path, "rb") as f:
+            content = base64.b64encode(f.read()).decode("utf-8")
 
-        with open(local_path, 'rb') as f:
-            response = client.put_object(
-                Bucket=bucket,
-                Body=f,
-                Key=cos_path,
-                StorageClass='STANDARD',
-                EnableMD5=False
-            )
+        # GitHub API URL
+        url = f"https://api.github.com/repos/{repo}/contents/{github_path}"
         
-        cos_url = f"https://{bucket}.cos.{region}.myqcloud.com/{cos_path}"
-        print(f"[OK] 文件已上传至 COS: {cos_url}")
-        return cos_url
+        headers = {
+            "Authorization": f"token {token}",
+            "Accept": "application/vnd.github.v3+json"
+        }
+
+        # 检查文件是否已存在（为了获取 sha 以进行更新）
+        sha = None
+        resp = requests.get(url, headers=headers)
+        if resp.status_code == 200:
+            sha = resp.json().get("sha")
+            print(f"[INFO] 文件已存在，准备更新: {github_path}")
+
+        # 提交更改
+        payload = {
+            "message": f"upload: {github_path} (auto sync)",
+            "content": content,
+            "branch": branch
+        }
+        if sha:
+            payload["sha"] = sha
+
+        put_resp = requests.put(url, headers=headers, json=payload)
+        put_resp.raise_for_status()
+        
+        raw_url = f"https://raw.githubusercontent.com/{repo}/{branch}/{github_path}"
+        print(f"[OK] 文件已同步至 GitHub: {raw_url}")
+        return raw_url
     except Exception as e:
-        print(f"[ERROR] COS 上传失败: {e}")
+        print(f"[ERROR] GitHub 上传失败: {e}")
         return None

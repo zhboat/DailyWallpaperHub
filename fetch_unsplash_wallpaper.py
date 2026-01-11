@@ -142,10 +142,10 @@ def main():
         except Exception as e:
             print(f"[WARN] Unsplash 企业微信推送失败: {e}")
     
-    # 9. 分发到腾讯云 COS (仅上传高清原图)
-    from src.utils import upload_to_cos
-    cos_path = f"wallpapers/unsplash/{today[:7]}/{today}/image.jpg"
-    upload_to_cos(str(image_path), cos_path)
+    # 9. 同步到另一个 GitHub 仓库 (blog-images)
+    from src.utils import upload_to_github
+    sync_path = f"wallpapers/unsplash/{today[:7]}/{today}/image.jpg"
+    upload_to_github(str(image_path), sync_path)
     
     print(f"\n✅ 完成！Unsplash 壁纸已归档至 {base_dir}")
 
