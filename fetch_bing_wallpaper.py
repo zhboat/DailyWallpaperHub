@@ -216,7 +216,7 @@ def main():
         
         # 找到可用的壁纸，赋值并跳出循环
         meta = curr_meta
-        today = curr_today
+        today = curr_date_str
         base_dir = curr_base_dir
         print(f"[INFO] 使用 {today} 的壁纸（idx={idx}）")
         break
