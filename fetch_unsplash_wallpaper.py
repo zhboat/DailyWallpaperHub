@@ -94,6 +94,13 @@ def main():
     thumb_path = base_dir / "thumb.jpg"
     generate_thumbnail(image_path, thumb_path)
     print(f"[OK] 缩略图已生成")
+
+    # 3.5. 压缩原图 (优化存储和分发)
+    try:
+        from scripts.optimize_images import compress_image
+        compress_image(image_path, target_size_kb=400)
+    except Exception as e:
+        print(f"[WARN] 原图压缩失败: {e}")
     
     # 4. 生成 AI 故事 - 可选
     title = photo.get("description") or photo.get("alt_description") or "Unsplash Featured Photo"

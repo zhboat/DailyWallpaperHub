@@ -238,6 +238,13 @@ def main():
     generate_thumbnail(image_path, thumb_path)
     print(f"[OK] 缩略图已生成: {thumb_path}")
 
+    # 3.5. 压缩原图 (优化存储和分发)
+    try:
+        from scripts.optimize_images import compress_image
+        compress_image(image_path, target_size_kb=400)
+    except Exception as e:
+        print(f"[WARN] 原图压缩失败: {e}")
+
     # 4. 生成 AI 故事 (带视觉) - 可选
     story_content = None
     if not args.skip_story:

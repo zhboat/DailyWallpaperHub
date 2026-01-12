@@ -23,7 +23,9 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          sudo apt-get update && sudo apt-get install -y jpegoptim
+          pip install -r requirements.txt
 
       - name: Fetch Bing wallpaper
         env:
@@ -33,6 +35,10 @@ jobs:
           LLM_MODEL_NAME: ${{ secrets.LLM_MODEL_NAME }}
           IMAGE_REPO: Hana19951208/blog-images
           GH_PAT: ${{ secrets.GH_PAT }}
+          COS_SECRET_ID: ${{ secrets.COS_SECRET_ID }}
+          COS_SECRET_KEY: ${{ secrets.COS_SECRET_KEY }}
+          COS_REGION: ${{ secrets.COS_REGION }}
+          COS_BUCKET: ${{ secrets.COS_BUCKET }}
         run: python fetch_bing_wallpaper.py
 
       - name: Fetch Unsplash wallpaper
@@ -44,12 +50,38 @@ jobs:
           WEWORK_WEBHOOK: ${{ secrets.WEWORK_WEBHOOK }}
           IMAGE_REPO: Hana19951208/blog-images
           GH_PAT: ${{ secrets.GH_PAT }}
+          COS_SECRET_ID: ${{ secrets.COS_SECRET_ID }}
+          COS_SECRET_KEY: ${{ secrets.COS_SECRET_KEY }}
+          COS_REGION: ${{ secrets.COS_REGION }}
+          COS_BUCKET: ${{ secrets.COS_BUCKET }}
         run: python fetch_unsplash_wallpaper.py
+
+      - name: Optimize all images (Legacy & New)
+        run: python scripts/optimize_images.py
 
       - name: Commit and push
         run: |
-          git config user.name "bing-wallpaper-bot"
+          git config user.name "DailyWallpaperHub-Bot"
           git config user.email "bot@users.noreply.github.com"
           git add README.md docs/
-          git commit -m "chore: add bing wallpaper $(date -u +%Y-%m-%d)" || echo "No changes"
+          git commit -m "chore: add and optimize wallpapers $(date -u +%Y-%m-%d) [skip ci]" || echo "No changes"
           git push
+
+      - name: Preheat CDN
+        env:
+          CDN_DOMAIN: ${{ secrets.CDN_DOMAIN || 'img.fangenwu.cn' }}
+        run: |
+          # 针对今天新生成的图片路径进行预热
+          TODAY=$(date -u +%Y-%m-%d)
+          MONTH=$(date -u +%Y-%m)
+          echo ">>> [日志] 开始针对 $TODAY 的新图片进行预热..."
+          
+          # Bing
+          URL_BING="https://$CDN_DOMAIN/wallpapers/bing/$MONTH/$TODAY/image.jpg"
+          STATUS_BING=$(curl -s -L -o /dev/null -I -w "%{http_code}" "$URL_BING")
+          echo ">>> [Bing 预热] $STATUS_BING - $URL_BING"
+          
+          # Unsplash
+          URL_UNSPLASH="https://$CDN_DOMAIN/wallpapers/unsplash/$MONTH/$TODAY/image.jpg"
+          STATUS_UNSPLASH=$(curl -s -L -o /dev/null -I -w "%{http_code}" "$URL_UNSPLASH")
+          echo ">>> [Unsplash 预热] $STATUS_UNSPLASH - $URL_UNSPLASH"

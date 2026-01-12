@@ -12,8 +12,8 @@ from fetch_bing_wallpaper import load_env
 def verify_github_upload():
     load_env() # 从 .env 加载环境变量
     
-    test_file = "docs/wallpapers/unsplash/2026-01/2026-01-12/image.jpg"
-    github_path = "wallpapers/unsplash/2026-01/2026-01-12/image.jpg"
+    test_file = "docs/wallpapers/bing/2026-01/2026-01-11/image.jpg"
+    github_path = "wallpapers/bing/2026-01/2026-01-11/image.jpg"
     
     if not Path(test_file).exists():
         print(f"[ERROR] 测试文件不存在: {test_file}")
