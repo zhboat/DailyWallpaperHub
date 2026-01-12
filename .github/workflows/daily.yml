@@ -32,7 +32,7 @@ jobs:
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
           LLM_MODEL_NAME: ${{ secrets.LLM_MODEL_NAME }}
           IMAGE_REPO: Hana19951208/blog-images
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: python fetch_bing_wallpaper.py
 
       - name: Fetch Unsplash wallpaper
@@ -43,7 +43,7 @@ jobs:
           LLM_MODEL_NAME: ${{ secrets.LLM_MODEL_NAME }}
           WEWORK_WEBHOOK: ${{ secrets.WEWORK_WEBHOOK }}
           IMAGE_REPO: Hana19951208/blog-images
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: python fetch_unsplash_wallpaper.py
 
       - name: Commit and push

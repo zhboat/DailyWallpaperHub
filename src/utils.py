@@ -111,6 +111,7 @@ def upload_to_github(local_path: str, github_path: str):
     上传文件到指定的 GitHub 仓库（替代 COS）
     """
     token = os.environ.get('GH_PAT') or os.environ.get('GITHUB_TOKEN')
+    token_src = "GH_PAT" if os.environ.get('GH_PAT') else "GITHUB_TOKEN"
     repo = os.environ.get('IMAGE_REPO', 'Hana19951208/blog-images')
     branch = os.environ.get('IMAGE_REPO_BRANCH', 'main')
 
@@ -128,7 +129,8 @@ def upload_to_github(local_path: str, github_path: str):
         
         headers = {
             "Authorization": f"token {token}",
-            "Accept": "application/vnd.github.v3+json"
+            "Accept": "application/vnd.github.v3+json",
+            "User-Agent": "DailyWallpaperHub-Bot"
         }
 
         # 检查文件是否已存在（为了获取 sha 以进行更新）
@@ -136,7 +138,9 @@ def upload_to_github(local_path: str, github_path: str):
         resp = requests.get(url, headers=headers)
         if resp.status_code == 200:
             sha = resp.json().get("sha")
-            print(f"[INFO] 文件已存在，准备更新: {github_path}")
+            print(f"[INFO] 文件已存在，准备更新 (SHA: {sha[:7]}): {github_path}")
+        elif resp.status_code != 404:
+            print(f"[WARN] 检查文件是否存在时返回异常状态码 {resp.status_code}: {resp.text}")
 
         # 提交更改
         payload = {
@@ -147,12 +151,16 @@ def upload_to_github(local_path: str, github_path: str):
         if sha:
             payload["sha"] = sha
 
+        print(f"[INFO] 正在上传至 {repo} (Using {token_src})...")
         put_resp = requests.put(url, headers=headers, json=payload)
-        put_resp.raise_for_status()
         
-        raw_url = f"https://raw.githubusercontent.com/{repo}/{branch}/{github_path}"
-        print(f"[OK] 文件已同步至 GitHub: {raw_url}")
-        return raw_url
+        if put_resp.status_code in [200, 201]:
+            raw_url = f"https://raw.githubusercontent.com/{repo}/{branch}/{github_path}"
+            print(f"[OK] 文件已同步至 GitHub: {raw_url}")
+            return raw_url
+        else:
+            print(f"[ERROR] GitHub API 返回错误 ({put_resp.status_code}): {put_resp.text}")
+            return None
     except Exception as e:
-        print(f"[ERROR] GitHub 上传失败: {e}")
+        print(f"[ERROR] GitHub 上传过程发生异常: {e}")
         return None
