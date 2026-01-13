@@ -85,4 +85,54 @@ header p {
         grid-template-columns: 1fr;
         gap: 16px;
     }
+
+    /* 移动端调整 GitHub 按钮 */
+    .github-link-btn {
+        top: 12px;
+        right: 12px;
+        padding: 6px 12px;
+        font-size: 0.8rem;
+    }
+
+    .github-link-btn svg {
+        width: 16px;
+        height: 16px;
+    }
+}
+
+/* GitHub Star 按钮样式 - 高级药丸设计 */
+.github-link-btn {
+    position: fixed;
+    top: 24px;
+    right: 24px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #ffffff;
+    color: #0d1117;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    z-index: 1000;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.github-link-btn svg {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+}
+
+.github-link-btn:hover {
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 8px 30px rgba(255, 255, 255, 0.1);
+    background: #f6f8fa;
+}
+
+.github-link-btn:active {
+    transform: translateY(0) scale(0.98);
 }
