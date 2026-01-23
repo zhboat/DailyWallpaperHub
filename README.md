@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-01-23</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-01/2026-01-23/image.jpg"><img src="docs/wallpapers/unsplash/2026-01/2026-01-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-01/2026-01-23/story.md"><small>white and brown house near brown grass field and mountain during daytime 📖</small></a></td>
+</tr>
+<tr>
 <td align="center"><b>2026-01-22</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-01/2026-01-22/image.jpg"><img src="docs/wallpapers/bing/2026-01/2026-01-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-01/2026-01-22/story.md"><small>霜雪中的盛宴 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-01/2026-01-22/image.jpg"><img src="docs/wallpapers/unsplash/2026-01/2026-01-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-01/2026-01-22/story.md"><small>brown rock formation under blue sky during daytime 📖</small></a></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-01-14</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-01/2026-01-14/image.jpg"><img src="docs/wallpapers/bing/2026-01/2026-01-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-01/2026-01-14/story.md"><small>小村庄，大视野 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-01/2026-01-14/image.jpg"><img src="docs/wallpapers/unsplash/2026-01/2026-01-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-01/2026-01-14/story.md"><small>canon beach in Oregon 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-01-13</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-01/2026-01-13/image.jpg"><img src="docs/wallpapers/bing/2026-01/2026-01-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>帕拉米蒂的历史之阶</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-01/2026-01-13/image.jpg"><img src="docs/wallpapers/unsplash/2026-01/2026-01-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-01/2026-01-13/story.md"><small>a view of a town from a hill with a plant in the foreground 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
