@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-01-25</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-01/2026-01-25/image.jpg"><img src="docs/wallpapers/bing/2026-01/2026-01-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-01/2026-01-25/story.md"><small>巴伐利亚的瑰宝 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-01/2026-01-25/image.jpg"><img src="docs/wallpapers/unsplash/2026-01/2026-01-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-01/2026-01-25/story.md"><small>Image taken above the Small Cauldron of the Danube. It is situated between the Romanian and Serbian boarder (Serbia on the right and Romania on the left). 📖</small></a></td>
 </tr>
 <tr>
