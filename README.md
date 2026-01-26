@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-01-26</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-01/2026-01-26/image.jpg"><img src="docs/wallpapers/bing/2026-01/2026-01-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-01/2026-01-26/story.md"><small>羽翼预告：前方有鹈鹕 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-01/2026-01-26/image.jpg"><img src="docs/wallpapers/unsplash/2026-01/2026-01-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-01/2026-01-26/story.md"><small>man in yellow and black jacket standing on snow covered ground during daytime 📖</small></a></td>
 </tr>
 <tr>
