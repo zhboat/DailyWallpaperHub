@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-01-28</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-01/2026-01-28/image.jpg"><img src="docs/wallpapers/unsplash/2026-01/2026-01-28/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-01/2026-01-28/story.md"><small>white mushroom on brown soil 📖</small></a></td>
+</tr>
+<tr>
 <td align="center"><b>2026-01-27</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-01/2026-01-27/image.jpg"><img src="docs/wallpapers/bing/2026-01/2026-01-27/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-01/2026-01-27/story.md"><small>随河而行 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-01/2026-01-27/image.jpg"><img src="docs/wallpapers/unsplash/2026-01/2026-01-27/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-01/2026-01-27/story.md"><small>a river running through a valley surrounded by mountains 📖</small></a></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-01-19</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-01/2026-01-19/image.jpg"><img src="docs/wallpapers/bing/2026-01/2026-01-19/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-01/2026-01-19/story.md"><small>冬季里的呆萌小可爱 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-01/2026-01-19/image.jpg"><img src="docs/wallpapers/unsplash/2026-01/2026-01-19/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-01/2026-01-19/story.md"><small>brown rocky mountain near body of water under cloudy sky during daytime 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-01-18</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-01/2026-01-18/image.jpg"><img src="docs/wallpapers/bing/2026-01/2026-01-18/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-01/2026-01-18/story.md"><small>大自然的波普艺术 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-01/2026-01-18/image.jpg"><img src="docs/wallpapers/unsplash/2026-01/2026-01-18/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-01/2026-01-18/story.md"><small>body of water near mountain during daytime 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
