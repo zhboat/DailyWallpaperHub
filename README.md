@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-02-06</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-06/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-06/story.md"><small>a cow grazes in a field near a lake 📖</small></a></td>
+</tr>
+<tr>
 <td align="center"><b>2026-02-05</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-05/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-05/story.md"><small>拉古塞拉——奥运赛季的巅峰 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-05/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-05/story.md"><small>A bird sitting on top of a brick building 📖</small></a></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-01-28</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-01/2026-01-28/image.jpg"><img src="docs/wallpapers/bing/2026-01/2026-01-28/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-01/2026-01-28/story.md"><small>密尔沃基的传奇故事 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-01/2026-01-28/image.jpg"><img src="docs/wallpapers/unsplash/2026-01/2026-01-28/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-01/2026-01-28/story.md"><small>white mushroom on brown soil 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-01-27</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-01/2026-01-27/image.jpg"><img src="docs/wallpapers/bing/2026-01/2026-01-27/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-01/2026-01-27/story.md"><small>随河而行 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-01/2026-01-27/image.jpg"><img src="docs/wallpapers/unsplash/2026-01/2026-01-27/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-01/2026-01-27/story.md"><small>a river running through a valley surrounded by mountains 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
