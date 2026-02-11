@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-02-11</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-11/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-11/story.md"><small>Into the wild with fresh air  📖</small></a></td>
+</tr>
+<tr>
 <td align="center"><b>2026-02-10</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-10/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-10/story.md"><small>对比之谷 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-10/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-10/story.md"><small>a view of a town from a hill with a plant in the foreground 📖</small></a></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-02-02</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-02/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-02/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-02/story.md"><small>太浩湖视觉盛宴 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-02/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-02/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-02/story.md"><small>a view of a town from a hill with a plant in the foreground 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-02-01</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-01/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-01/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-01/story.md"><small>影子的承诺 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-01/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-01/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-01/story.md"><small>ocean waves crashing on rocks during sunset 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
