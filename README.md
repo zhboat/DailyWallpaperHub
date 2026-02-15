@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-02-15</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-15/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-15/story.md"><small>Full Color 📖</small></a></td>
+</tr>
+<tr>
 <td align="center"><b>2026-02-14</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-14/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-14/story.md"><small>浪涛下的歌谣 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-14/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-14/story.md"><small>person sitting on black box on snow covered ground during daytime 📖</small></a></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-02-06</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-06/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-06/story.md"><small>在盐沼与天空之间，万物静谧 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-06/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-06/story.md"><small>a cow grazes in a field near a lake 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-02-05</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-05/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-05/story.md"><small>拉古塞拉——奥运赛季的巅峰 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-05/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-05/story.md"><small>A bird sitting on top of a brick building 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
