@@ -48,10 +48,9 @@ def generate_api():
             all_wallpapers.append({
                 "date": meta.get("date", date_dir.name),
                 "title": meta.get("title", date_dir.name),
-                "urls": {
-                    "image": f"{CDN_BASE}/{rel}/image.jpg",
-                    "thumb": f"{CDN_BASE}/{rel}/thumb.jpg",
-                },
+                "size": image_path.stat().st_size,
+                "image": f"{CDN_BASE}/{rel}/image.jpg",
+                "thumb": f"{CDN_BASE}/{rel}/thumb.jpg",
             })
 
     all_wallpapers.sort(key=lambda x: x["date"], reverse=True)
