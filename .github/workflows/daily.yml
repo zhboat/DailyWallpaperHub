@@ -59,6 +59,9 @@ jobs:
       - name: Optimize all images (Legacy & New)
         run: python scripts/optimize_images.py
 
+      - name: Generate API
+        run: python src/generate_api.py
+
       - name: Commit and push
         run: |
           git config user.name "DailyWallpaperHub-Bot"
