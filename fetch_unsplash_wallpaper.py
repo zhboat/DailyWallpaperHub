@@ -98,7 +98,7 @@ def main():
     # 3.5. 压缩原图 (优化存储和分发)
     try:
         from scripts.optimize_images import compress_image
-        compress_image(image_path, target_size_kb=400)
+        compress_image(image_path, target_size_kb=1024)
     except Exception as e:
         print(f"[WARN] 原图压缩失败: {e}")
     

@@ -9,7 +9,7 @@ import os
 import subprocess
 from pathlib import Path
 
-def compress_image(image_path: Path, target_size_kb: int = 400):
+def compress_image(image_path: Path, target_size_kb: int = 1024):
     """
     使用 jpegoptim 压缩单张图片
     """
@@ -52,7 +52,7 @@ def batch_optimize_legacy():
     # 递归搜索所有 image.jpg
     for img_path in base_dir.rglob("image.jpg"):
         original_size = img_path.stat().st_size / 1024
-        if original_size > 450: # 稍微留一点余量，大于 450k 的才处理
+        if original_size > 1100: # 稍微留一点余量，大于 1100k 的才处理
             if compress_image(img_path):
                 new_size = img_path.stat().st_size / 1024
                 print(f"  ✅ 优化完成: {original_size:.1f}k -> {new_size:.1f}k")
