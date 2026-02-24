@@ -69,3 +69,7 @@ jobs:
           git add README.md docs/
           git commit -m "chore: add and optimize wallpapers $(date -u +%Y-%m-%d) [skip ci]" || echo "No changes"
           git push
+
+      - name: Sync to CNB
+        run: |
+          git push --force "https://${{ secrets.CNBUSER }}:${{ secrets.CNBTOKEN }}@cnb.cool/deepalhome/SyncPic.git" main:main
