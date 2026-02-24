@@ -12,7 +12,7 @@ from PIL import Image
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from src.config_loader import get_enabled_sources
 
-CDN_BASE = "https://cdn.jsdelivr.net/gh/zhboat/DailyWallpaperHub@main/docs"
+CDN_BASE = "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs"
 
 
 def generate_api():
