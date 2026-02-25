@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-02-25",
+      "title": "a lake surrounded by trees with a blue sky in the background",
+      "source": "unsplash",
+      "fileSize": 1029520,
+      "resolution": "8256x5504",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-02/2026-02-25/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-02/2026-02-25/thumb.jpg"
+    },
+    {
       "date": "2026-02-24",
       "title": "Early in the morning",
       "source": "unsplash",

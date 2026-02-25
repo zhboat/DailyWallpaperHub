@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-02-25</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-25/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a lake surrounded by trees with a blue sky in the background</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-02-24</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-24/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>冰，由内而外透出光芒</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-24/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-24/story.md"><small>Early in the morning 📖</small></a></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-02-16</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-16/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-16/story.md"><small>福气满满，马年大吉 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-16/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-16/story.md"><small>a black and white photo of a mountain range 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-02-15</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-15/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-15/story.md"><small>祝除夕团圆，新年顺遂！ 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-15/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-15/story.md"><small>Full Color 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
