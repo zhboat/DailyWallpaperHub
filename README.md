@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-03-03</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-03/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>lake in the middle of mountains during daytime</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-03-02</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-02/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-02/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>花灯映月，团圆吉祥</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-02/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-02/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>white and black house on top of brown rocky mountain</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-02-22</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-22/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-22/story.md"><small>雪原之王 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-22/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-22/story.md"><small>Erongo mountains 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-02-21</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-21/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-21/story.md"><small>群山的母亲 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-21/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-21/story.md"><small>green trees on green grass field under blue sky and white clouds during daytime 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
