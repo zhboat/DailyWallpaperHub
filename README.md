@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-03-04</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-04/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a man with a backpack walking on a mountain</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-03-03</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-03/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>聚光灯下的番红花</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-03/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>lake in the middle of mountains during daytime</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-02-23</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-23/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-23/story.md"><small>池底的生命律动 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-23/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-23/story.md"><small>the grass is covered with dew and drops of water 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-02-22</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-22/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-22/story.md"><small>雪原之王 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-22/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-22/story.md"><small>Erongo mountains 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
