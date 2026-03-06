@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-03-06</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-06/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of a lake in the middle of a forest</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-03-05</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-05/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>混凝土中铸造的波浪</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-05/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>body of water near mountain during sunset</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-02-25</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-25/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>一幅壮丽的景象</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-25/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a lake surrounded by trees with a blue sky in the background</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-02-24</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-24/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>冰，由内而外透出光芒</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-24/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-24/story.md"><small>Early in the morning 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
