@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-03-18",
+      "title": "a lake with a bridge in the background",
+      "source": "unsplash",
+      "fileSize": 1056619,
+      "resolution": "7886x4436",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-03/2026-03-18/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-03/2026-03-18/thumb.jpg"
+    },
+    {
       "date": "2026-03-17",
       "title": "ocean waves crashing on rocks during sunset",
       "source": "unsplash",
