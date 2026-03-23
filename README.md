@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-03-23</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-23/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Atacama is filled with other-worldly landscapes. Nearly everywhere you turn, you feel like you might be on another planet.</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-03-22</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-22/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>当水划出界线</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-22/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of a city at night from a hill</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-03-14</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-14/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>掠海而过</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-14/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees near body of water during daytime</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-03-13</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-13/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>圆周率的古老启示</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-13/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a lush green forest filled with lots of trees</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
