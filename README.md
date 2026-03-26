@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-03-26</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-26/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>依然明亮地燃烧着</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-26/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>A large rock formation in the middle of a desert</small></td>
 </tr>
 <tr>
