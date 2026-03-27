@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-03-27",
+      "title": "View of hill in the middle of the forest",
+      "source": "unsplash",
+      "fileSize": 1061991,
+      "resolution": "6000x4000",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-03/2026-03-27/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-03/2026-03-27/thumb.jpg"
+    },
+    {
       "date": "2026-03-26",
       "title": "A large rock formation in the middle of a desert",
       "source": "unsplash",
