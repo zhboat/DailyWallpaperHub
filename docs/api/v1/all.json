@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-04-02",
+      "title": "a mountain range in the distance with trees in the foreground",
+      "source": "unsplash",
+      "fileSize": 1090775,
+      "resolution": "5293x2591",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-04/2026-04-02/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-04/2026-04-02/thumb.jpg"
+    },
+    {
       "date": "2026-04-01",
       "title": "A rock formation with a tree in the foreground",
       "source": "unsplash",
