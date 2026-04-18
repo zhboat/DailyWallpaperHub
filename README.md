@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-04-18</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-18/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-18/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green grass field and mountain under white clouds and blue sky during daytime</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-04-17</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-17/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>未完成巨像的静默</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-17/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Oman , 
@@ -87,11 +92,6 @@ From the Horizon of Jabal Hatt  </small></td>
 <td align="center"><b>2026-04-09</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-09/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>算计的小爪子</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-09/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees and mountains under white clouds and blue sky during daytime</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-04-08</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-08/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>光之水帘</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-08/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of a town from a hill with a plant in the foreground</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
