@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-04-20</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-20/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-20/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>A scenic view of the grand canyon in the desert</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-04-19</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-19/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-19/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>日落之后，探索仍在继续</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-19/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-19/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>white flowers in tilt shift lens</small></td>
@@ -87,11 +92,6 @@ From the Horizon of Jabal Hatt  </small></td>
 <td align="center"><b>2026-04-11</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-11/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>离开地球的第一步</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-11/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>A large rock formation in the middle of a desert</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-04-10</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-10/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>火山外衣</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-10/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a body of water with trees around it</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
