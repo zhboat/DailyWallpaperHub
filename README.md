@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-04-23</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-23/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of a mountain with a body of water in the foreground</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-04-22</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-22/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>一座充满故事的小屋</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-22/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees near river during daytime</small></td>
@@ -87,11 +92,6 @@ From the Horizon of Jabal Hatt  </small></td>
 <td align="center"><b>2026-04-14</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-14/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>走进这幅鲜活的画布</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-14/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a grassy field with mountains in the distance</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-04-13</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-13/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>珊瑚礁邻居</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-13/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees on mountain under white clouds during daytime</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
