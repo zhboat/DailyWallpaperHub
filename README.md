@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-04-24</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-24/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a grassy field with mountains in the distance</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-04-23</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-23/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>向树木致敬</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-23/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of a mountain with a body of water in the foreground</small></td>
@@ -87,11 +92,6 @@ From the Horizon of Jabal Hatt  </small></td>
 <td align="center"><b>2026-04-15</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-15/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>花瓣巡游</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-15/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>white mushroom on brown soil</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-04-14</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-14/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>走进这幅鲜活的画布</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-14/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a grassy field with mountains in the distance</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
