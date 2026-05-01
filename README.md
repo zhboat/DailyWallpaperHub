@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-05-01</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-01/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-01/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>The beautiful Rocky Mountains in Colorado</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-04-30</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-30/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>初夏·翠微长城</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-30/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a town with many buildings and trees</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-04-22</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-22/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>一座充满故事的小屋</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-22/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees near river during daytime</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-04-21</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-21/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>行动的力量</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-21/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>lake in the middle of mountains during daytime</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->

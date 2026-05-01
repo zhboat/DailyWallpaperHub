@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-05-01",
+      "title": "The beautiful Rocky Mountains in Colorado",
+      "source": "unsplash",
+      "fileSize": 1074910,
+      "resolution": "6720x4480",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-05/2026-05-01/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-05/2026-05-01/thumb.jpg"
+    },
+    {
       "date": "2026-04-30",
       "title": "a town with many buildings and trees",
       "source": "unsplash",
