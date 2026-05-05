@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-05-05</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-05/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>A wind turbine in Turkey, outside of Sisili. </small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-05-04</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-04/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>藕花风起，首夏清和</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-04/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>an aerial view of a valley with a river running through it</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-04-26</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-26/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>有格调的玻璃</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-26/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>brown wheat in close up photography</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-04-25</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-25/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>繁花盛放</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-25/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a house in the middle of a field with a mountain in the background</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
