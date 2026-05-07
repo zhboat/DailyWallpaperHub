@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-05-07",
+      "title": "the sun is setting over a mountain range",
+      "source": "unsplash",
+      "fileSize": 1039040,
+      "resolution": "4032x1908",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-05/2026-05-07/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-05/2026-05-07/thumb.jpg"
+    },
+    {
       "date": "2026-05-06",
       "title": "green trees near body of water during daytime",
       "source": "unsplash",
