@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-05-25</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-25/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a large rock in the middle of a desert</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-05-24</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-24/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>石间的清风</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-24/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>brown wheat in close up photography</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-05-16</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-16/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>静谧之巅，喧嚣之景</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-16/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of the mountains from the top of a hill</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-05-15</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-15/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>跌到谷底？这里可不是。</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-15/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>One of the awesome sunset from Hong Kong</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
