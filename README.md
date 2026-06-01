@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-06-01</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-01/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-01/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a person standing on a beach next to the ocean</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-05-31</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-31/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>历史的况味</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-31/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a mountain covered in snow with a telephone pole in the foreground</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-05-23</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-23/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>守护欧洲的自然净土</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-23/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green grass field under white sky during daytime</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-05-22</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-22/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>为龟类喝彩！</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-22/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>an aerial view of a valley with a river running through it</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
