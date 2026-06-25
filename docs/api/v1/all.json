@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-06-25",
+      "title": "a lush green forest filled with lots of trees",
+      "source": "unsplash",
+      "fileSize": 1024100,
+      "resolution": "5472x3648",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-06/2026-06-25/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-06/2026-06-25/thumb.jpg"
+    },
+    {
       "date": "2026-06-24",
       "title": "Erongo mountains",
       "source": "unsplash",

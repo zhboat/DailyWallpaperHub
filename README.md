@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-06-25</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-25/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a lush green forest filled with lots of trees</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-06-24</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-24/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>在广场中感受历史</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-24/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Erongo mountains</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-06-16</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-16/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>蜿蜒而上</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-16/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Shallow river high speed boating at Skippers canyon near Queenstown, New Zealand</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-06-15</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-15/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>蔚蓝海礁的守护者</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-15/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees and mountains during daytime</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
