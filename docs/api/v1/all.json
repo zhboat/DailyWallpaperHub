@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-07-01",
+      "title": "Early in the morning",
+      "source": "unsplash",
+      "fileSize": 665487,
+      "resolution": "2806x2120",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-07/2026-07-01/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-07/2026-07-01/thumb.jpg"
+    },
+    {
       "date": "2026-06-30",
       "title": "a body of water with mountains in the background",
       "source": "unsplash",
