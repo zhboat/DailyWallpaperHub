@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-07-03",
+      "title": "Lonely Night",
+      "source": "unsplash",
+      "fileSize": 485274,
+      "resolution": "2950x2211",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-07/2026-07-03/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-07/2026-07-03/thumb.jpg"
+    },
+    {
       "date": "2026-07-02",
       "title": "a lone giraffe standing in the shade of a tree",
       "source": "unsplash",
