@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-07-09",
+      "title": "Landscapes of Romania",
+      "source": "unsplash",
+      "fileSize": 1052830,
+      "resolution": "6000x3376",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-07/2026-07-09/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-07/2026-07-09/thumb.jpg"
+    },
+    {
       "date": "2026-07-08",
       "title": "green grass field under blue sky during daytime",
       "source": "unsplash",
