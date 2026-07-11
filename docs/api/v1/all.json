@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-07-11",
+      "title": "green grass field",
+      "source": "unsplash",
+      "fileSize": 1046465,
+      "resolution": "4288x2848",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-07/2026-07-11/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-07/2026-07-11/thumb.jpg"
+    },
+    {
       "date": "2026-07-10",
       "title": "Tuscanian Colors",
       "source": "unsplash",
