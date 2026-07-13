@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-07-13",
+      "title": "green grass field under cloudy sky during daytime",
+      "source": "unsplash",
+      "fileSize": 1048212,
+      "resolution": "6000x4496",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-07/2026-07-13/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-07/2026-07-13/thumb.jpg"
+    },
+    {
       "date": "2026-07-12",
       "title": "Infrared Canyon",
       "source": "unsplash",
