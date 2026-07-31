@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-07-31",
+      "title": "a view of a mountain range with clouds in the sky",
+      "source": "unsplash",
+      "fileSize": 1036440,
+      "resolution": "8000x6000",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-07/2026-07-31/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-07/2026-07-31/thumb.jpg"
+    },
+    {
       "date": "2026-07-30",
       "title": "a rocky hillside with trees and rocks in the foreground",
       "source": "unsplash",
