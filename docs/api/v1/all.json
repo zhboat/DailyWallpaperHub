@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-08-02",
+      "title": "a field with trees and a hill in the background",
+      "source": "unsplash",
+      "fileSize": 1055522,
+      "resolution": "5568x3712",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-08/2026-08-02/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-08/2026-08-02/thumb.jpg"
+    },
+    {
       "date": "2026-08-01",
       "title": "a view of a mountain range with trees in the foreground",
       "source": "unsplash",
