@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-08-12",
+      "title": "a black and white photo of a mountain range",
+      "source": "unsplash",
+      "fileSize": 1048781,
+      "resolution": "6000x4000",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-08/2026-08-12/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-08/2026-08-12/thumb.jpg"
+    },
+    {
       "date": "2026-08-11",
       "title": "a grassy hill with trees and fog",
       "source": "unsplash",
