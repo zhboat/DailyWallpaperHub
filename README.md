@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-08-13</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-13/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Public  Garden - باخی گشتی</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-08-12</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-12/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>许个愿吧</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-12/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a black and white photo of a mountain range</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-08-04</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-04/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>秘境之门，匠心传世</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-04/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees beside body of water under cloudy sky during daytime</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-08-03</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-03/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>呼呼，太棒了！</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-03/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Kalikuning Bridge, Sleman, Yogyakarta</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
