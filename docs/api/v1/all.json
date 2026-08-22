@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-08-22",
+      "title": "A bunch of trees",
+      "source": "unsplash",
+      "fileSize": 1052142,
+      "resolution": "4192x2358",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-08/2026-08-22/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-08/2026-08-22/thumb.jpg"
+    },
+    {
       "date": "2026-08-21",
       "title": "a person riding a surfboard on a wave in the ocean",
       "source": "unsplash",
