@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-08-24</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-24/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>silhouette of mountains</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-08-23</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-23/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>跨越历史</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-23/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>lake surrounded by mountains during daytime</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-08-15</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-15/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>天鹅开启传奇之处</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-15/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>body of water near mountain during sunset</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-08-14</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-14/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>绝妙的平衡术</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-14/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a grassy field with trees in the background</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
