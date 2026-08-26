@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-08-26",
+      "title": "a field of crops",
+      "source": "unsplash",
+      "fileSize": 1042778,
+      "resolution": "5472x3648",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-08/2026-08-26/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-08/2026-08-26/thumb.jpg"
+    },
+    {
       "date": "2026-08-25",
       "title": "Kyiv Hill Landscape",
       "source": "unsplash",
