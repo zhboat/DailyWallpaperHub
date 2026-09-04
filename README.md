@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-09-04</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-04/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a grassy field with a mountain in the background</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-09-03</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-03/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>地平线上的红与白</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-03/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of a town from a hill with a plant in the foreground</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-08-26</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-26/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>湖水、野生动物与奇景</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-26/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a field of crops</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-08-25</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-25/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>流光溢彩的天空</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-25/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Kyiv Hill Landscape</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
