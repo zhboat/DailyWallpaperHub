@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-09-05",
+      "title": "Loner",
+      "source": "unsplash",
+      "fileSize": 1054827,
+      "resolution": "3648x2432",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-09/2026-09-05/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-09/2026-09-05/thumb.jpg"
+    },
+    {
       "date": "2026-09-04",
       "title": "a grassy field with a mountain in the background",
       "source": "unsplash",
