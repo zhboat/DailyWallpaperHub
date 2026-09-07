@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-09-07",
+      "title": "Canadian Treeline",
+      "source": "unsplash",
+      "fileSize": 1014715,
+      "resolution": "3000x2000",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-09/2026-09-07/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-09/2026-09-07/thumb.jpg"
+    },
+    {
       "date": "2026-09-06",
       "title": "brown mountains under white clouds during daytime",
       "source": "unsplash",
