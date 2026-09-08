@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-09-08</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-08/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Captured this mesmerizing sunset landscape with a stunning purple sky and unique purple color grading during my recent trip to Theniet el had. The vibrant purple hues add a touch of magic to the scene, creating an otherworldly and dreamy ambiance. This breathtaking natural beauty is one of a kind.⭐ Thanks for every feedback and any donation by PayPal. ⭐</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-09-07</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-07/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>金色田野</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-07/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Canadian Treeline</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-08-30</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-30/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>图案艺术的典范</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-30/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>brown wheat in close up photography</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-08-29</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-29/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-29/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>名为鲨鱼的巨型鱼类</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-29/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-29/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees on mountain during daytime</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
