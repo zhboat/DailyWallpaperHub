@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-09-11",
+      "title": "a lush green field with a river running through it",
+      "source": "unsplash",
+      "fileSize": 1037345,
+      "resolution": "4201x2795",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-09/2026-09-11/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-09/2026-09-11/thumb.jpg"
+    },
+    {
       "date": "2026-09-10",
       "title": "a cow grazes in a field near a lake",
       "source": "unsplash",
