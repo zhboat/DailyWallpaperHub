@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-09-15</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-15/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>A snow covered road with mountains in the background</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-09-14</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-14/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>最炫者生存</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-14/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>body of water near mountain during daytime</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-09-06</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-06/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>历史沿运河流淌之地</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-06/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>brown mountains under white clouds during daytime</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-09-05</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-05/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>倒影满湖的水库</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-05/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Loner</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->

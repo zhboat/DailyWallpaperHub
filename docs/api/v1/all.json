@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-09-15",
+      "title": "A snow covered road with mountains in the background",
+      "source": "unsplash",
+      "fileSize": 1012662,
+      "resolution": "4005x3004",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-09/2026-09-15/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-09/2026-09-15/thumb.jpg"
+    },
+    {
       "date": "2026-09-14",
       "title": "body of water near mountain during daytime",
       "source": "unsplash",
