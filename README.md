@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-09-18</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-18/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-18/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>SUST Mountain </small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-09-17</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-17/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>穿越山口腹地</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-17/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Sunset at a ripe paddy field.</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-09-09</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-09/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>俯瞰大地拼图</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-09/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a grassy field with mountains in the distance</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-09-08</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-08/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>印度西海岸的生活</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-08/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Captured this mesmerizing sunset landscape with a stunning purple sky and unique purple color grading during my recent trip to Theniet el had. The vibrant purple hues add a touch of magic to the scene, creating an otherworldly and dreamy ambiance. This breathtaking natural beauty is one of a kind.⭐ Thanks for every feedback and any donation by PayPal. ⭐</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
