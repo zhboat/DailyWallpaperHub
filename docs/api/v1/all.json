@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-09-21",
+      "title": "mountain",
+      "source": "unsplash",
+      "fileSize": 1064423,
+      "resolution": "6000x3376",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-09/2026-09-21/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-09/2026-09-21/thumb.jpg"
+    },
+    {
       "date": "2026-09-20",
       "title": "green trees on mountain under white clouds during daytime",
       "source": "unsplash",
