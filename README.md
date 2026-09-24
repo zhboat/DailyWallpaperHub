@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-09-24</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-24/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>当月亮也来赴会</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-24/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Sure, numbers don’t lie but just numbers didn’t really give us an idea about how big the Statue of Unity really is. To understand their true meaning we had to feel them. We knew that the Statue of Unity, standing at 182 metres is now the world’s tallest statue. But not until we stood next to it, dwarfed even by the feet of the Iron Man of India, did we grasp the full enormity of this statue.</small></td>
 </tr>
 <tr>
