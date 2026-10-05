@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-10-05",
+      "title": "a lake with a bridge in the background",
+      "source": "unsplash",
+      "fileSize": 1056619,
+      "resolution": "7886x4436",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-10/2026-10-05/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-10/2026-10-05/thumb.jpg"
+    },
+    {
       "date": "2026-10-04",
       "title": "green grass field under white clouds during daytime",
       "source": "unsplash",
