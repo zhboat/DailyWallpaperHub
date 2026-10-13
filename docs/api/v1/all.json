@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-10-13",
+      "title": "a view of a mountain range with clouds in the sky",
+      "source": "unsplash",
+      "fileSize": 1036440,
+      "resolution": "8000x6000",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-10/2026-10-13/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-10/2026-10-13/thumb.jpg"
+    },
+    {
       "date": "2026-10-12",
       "title": "a field of crops",
       "source": "unsplash",
