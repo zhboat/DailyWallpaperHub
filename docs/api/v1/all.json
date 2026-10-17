@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-10-17",
+      "title": "a black and white photo of a mountain range",
+      "source": "unsplash",
+      "fileSize": 1046613,
+      "resolution": "4496x3000",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-10/2026-10-17/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-10/2026-10-17/thumb.jpg"
+    },
+    {
       "date": "2026-10-16",
       "title": "a body of water with trees around it",
       "source": "unsplash",
