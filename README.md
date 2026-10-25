@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-10-25</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-25/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a body of water surrounded by palm trees</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-10-24</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-24/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>群峰与宁静相遇之地</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-24/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Cloudy Foggy Rainy Day in the Mountains at Aowanda National Forest in Nantou, Taiwan</small></td>
@@ -88,11 +93,6 @@
 <td align="center"><b>2026-10-16</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-16/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>发掘尘封的过去</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-16/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a body of water with trees around it</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-10-15</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-15/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>一窥科罗拉多群峰</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-15/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a lush green hillside covered in lots of moss</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
