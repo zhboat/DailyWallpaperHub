@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-10-26",
+      "title": "A bird sitting on top of a brick building",
+      "source": "unsplash",
+      "fileSize": 1044886,
+      "resolution": "4096x3072",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-10/2026-10-26/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-10/2026-10-26/thumb.jpg"
+    },
+    {
       "date": "2026-10-25",
       "title": "a body of water surrounded by palm trees",
       "source": "unsplash",
