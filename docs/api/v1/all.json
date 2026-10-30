@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-10-30",
+      "title": "a scenic view of a valley surrounded by mountains",
+      "source": "unsplash",
+      "fileSize": 1091366,
+      "resolution": "9248x6936",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-10/2026-10-30/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-10/2026-10-30/thumb.jpg"
+    },
+    {
       "date": "2026-10-29",
       "title": "One of the awesome sunset from Hong Kong",
       "source": "unsplash",
