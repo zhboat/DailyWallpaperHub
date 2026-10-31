@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-10-31",
+      "title": "a lake with a bridge in the background",
+      "source": "unsplash",
+      "fileSize": 1056619,
+      "resolution": "7886x4436",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-10/2026-10-31/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-10/2026-10-31/thumb.jpg"
+    },
+    {
       "date": "2026-10-30",
       "title": "a scenic view of a valley surrounded by mountains",
       "source": "unsplash",
