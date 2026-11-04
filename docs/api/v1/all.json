@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-11-04",
+      "title": "a field with tall grass under a cloudy sky",
+      "source": "unsplash",
+      "fileSize": 1031171,
+      "resolution": "6000x4000",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-11/2026-11-04/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-11/2026-11-04/thumb.jpg"
+    },
+    {
       "date": "2026-11-03",
       "title": "a mountain covered in clouds and trees on a cloudy day",
       "source": "unsplash",
