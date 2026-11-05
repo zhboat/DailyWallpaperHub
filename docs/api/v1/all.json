@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-11-05",
+      "title": "On the Road",
+      "source": "unsplash",
+      "fileSize": 1048994,
+      "resolution": "6000x3375",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-11/2026-11-05/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-11/2026-11-05/thumb.jpg"
+    },
+    {
       "date": "2026-11-04",
       "title": "a field with tall grass under a cloudy sky",
       "source": "unsplash",
