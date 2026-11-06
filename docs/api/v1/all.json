@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-11-06",
+      "title": "a view of the mountains from the top of a hill",
+      "source": "unsplash",
+      "fileSize": 1037463,
+      "resolution": "4032x3024",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-11/2026-11-06/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-11/2026-11-06/thumb.jpg"
+    },
+    {
       "date": "2026-11-05",
       "title": "On the Road",
       "source": "unsplash",
