@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-11-08</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-08/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>brown rocky mountain near body of water during daytime</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-11-07</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-07/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>光芒四射的节日</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-07/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a hill covered in fog and trees on a cloudy day</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-10-30</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-30/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>往昔帝国的幽影</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-30/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a scenic view of a valley surrounded by mountains</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-10-29</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-29/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-29/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>展翅高飞的时节</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-29/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-29/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>One of the awesome sunset from Hong Kong</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
