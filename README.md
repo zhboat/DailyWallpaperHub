@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-11-16</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-16/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Cloudy Foggy Rainy Day in the Mountains at Aowanda National Forest in Nantou, Taiwan</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-11-15</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-15/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>历经岁月，屹立不倒</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-15/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a field with tall grass under a cloudy sky</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-11-07</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-07/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>光芒四射的节日</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-07/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a hill covered in fog and trees on a cloudy day</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-11-06</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-06/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>归来的草原巨兽</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-06/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of the mountains from the top of a hill</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
