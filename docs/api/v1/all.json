@@ -1,6 +1,15 @@
 {
   "wallpapers": [
     {
+      "date": "2026-11-22",
+      "title": "a field of crops",
+      "source": "unsplash",
+      "fileSize": 1042778,
+      "resolution": "5472x3648",
+      "image": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-11/2026-11-22/image.jpg",
+      "thumb": "https://cnb.cool/deepalhome/SyncPic/-/git/raw/main/docs/wallpapers/unsplash/2026-11/2026-11-22/thumb.jpg"
+    },
+    {
       "date": "2026-11-21",
       "title": "lake surrounded by mountains during daytime",
       "source": "unsplash",
